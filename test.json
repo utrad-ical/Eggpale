@@ -1,0 +1,10 @@
+{
+  "training": {
+    "list": "test.16.txt",
+    "image": "data"
+  },
+  "test": {
+    "list": "test.16.txt",
+    "image": "data"
+  }
+}
